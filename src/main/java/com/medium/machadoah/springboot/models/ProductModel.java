@@ -1,4 +1,4 @@
-package com.medium.machadoah.springboot.model;
+package com.medium.machadoah.springboot.models;
 
 import jakarta.persistence.*;
 import lombok.Getter;
